@@ -8,6 +8,20 @@ description: >-
 
 ![](.gitbook/assets/logo-png.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% hint style="success" %}
 > "The vision we have for PIN is to become the public index for a metadata network. PIN isn't a smart contract platform plus 'oh we also have metadata on the side.' Metadata is PIN's purpose." 
 >
