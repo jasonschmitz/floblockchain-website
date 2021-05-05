@@ -4,8 +4,7 @@ description: What makes PIN special
 
 # Design Philosophy
 
-{% hint style="success" %}
-**PIN is designed to achieve four goals:**📌 
+**PIN is designed to achieve four goals:**
 
 1. Provide a decentralized metadata layer
 
@@ -13,6 +12,4 @@ description: What makes PIN special
 
 3. Prevent widespread data atrophy
 
-4. Provide high throughput of transactions 
-{% endhint %}
-
+4. Provide high throughput of transactions
