@@ -7,7 +7,7 @@
 * Total Coin Supply:  160,000,000
 * Halving: Every 800,000 blocks
 * Next Halving:
-* 
+
 **Mining Pools and Guides**:
 
 * [Medici Land Governance Mining Pool ](https://pool.mediciland.com/stats.html)+ [Guid](https://pool.mediciland.com/connect.html)e
@@ -16,9 +16,3 @@
 * [Zergpool](http://zergpool.com/) + [Zergpool FAQs](http://zergpool.com/site/faq)
 * [Suprnova](https://flo.suprnova.cc/) + [Guide](https://flo.suprnova.cc/index.php?page=gettingstarted)
 * [Mining Dutch](https://www.mining-dutch.nl/pools/florin.php)
-
-
-
-
-
-
